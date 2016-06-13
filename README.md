@@ -4,3 +4,4 @@
 
 - [GPSデータ gpx](https://github.com/gsc-aoyama/FieldTrip4GSC2016odawara/blob/master/FieldTrip2016-06-12_odawara.gpx)
 ![スクリーンキャプチャ](https://github.com/AyameO/FieldTrip4GSC2016odawara/blob/master/fieildwork.png)
+- [KMZデータ kmz](https://github.com/AyameO/FieldTrip4GSC2016odawara/blob/master/fieldwork.kmz)
